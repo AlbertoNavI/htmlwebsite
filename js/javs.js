@@ -6,5 +6,6 @@ function validaforma() {
     }
     else{
         alert("Tus palabras no cambian nada");
+      
     }
   }
