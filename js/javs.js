@@ -4,4 +4,7 @@ function validaforma() {
       alert("Escribe algo");
       return false;
     }
+    else{
+        alert("Tus palabras no cambian nada");
+    }
   }
